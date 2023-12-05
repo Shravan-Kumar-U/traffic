@@ -1,0 +1,50 @@
+.qaz{
+    background-color: black;
+    height: 200px;
+    width: 80px;
+    border: gray solid;
+    
+    
+}
+.qwe{
+    background-color: black;
+    height: 1px;
+    width: 1px;
+    
+}
+.wsx{
+    background-color: red;
+    height: 40px;
+    width: 40px;
+    border: yellow solid;
+    border-radius: 100px;
+    padding-top:;
+    margin: 15px 0px 0px 15px;
+}
+.edc{
+    background-color: yellow;
+    height: 40px;
+    width: 40px;
+    border: green solid;
+    border-radius: 100px;
+    margin:15px 0px 0px 15px;
+
+
+}
+.rfv{
+    background-color: green;
+    height: 40px;
+    width: 40px;
+    border: red solid;
+    border-radius: 100px;
+    margin: 15px 0px 0px 15px;
+
+}
+.yt{
+    background-color: black;
+    height: 400px;
+    width: 10px;
+    border: gray solid ;
+    margin-top: 20px ;
+    margin-left: 30px;
+}
